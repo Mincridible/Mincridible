@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)](https://zoro.to)
+[![MasterHead](https://media.tenor.com/nqMC-PZUsUwAAAAC/studio-ghibli.gif)](https://zoro.to)
 <h1 align="center">Hi 👋, I'm Ahmad Muhaimin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mincridible&label=Profile%20views&color=0e75b6&style=flat" alt="mincridible" /> </p>
 <p align="center">
