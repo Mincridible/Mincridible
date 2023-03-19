@@ -25,6 +25,9 @@
 <p align="left"> 
 <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="tableau" width="240" height="60"/>
 <img src="https://deepinthecode.com/wp-content/uploads/2022/08/powerbi.jpg" alt="tableau" width="140" height="60"/></p>
+
+
+<h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mincridible&show_icons=true&locale=en&layout=compact" alt="mincridible" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mincridible&show_icons=true&locale=en" alt="mincridible" /></p>
