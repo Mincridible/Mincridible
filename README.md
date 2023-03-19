@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Muhaimin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mincridible&label=Profile%20views&color=0e75b6&style=flat" alt="mincridible" /> </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineering+Student;Love+to+learn+new+stuffs.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineering+Student;Failure+is+success+in+progress"></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
