@@ -1,4 +1,5 @@
-[![MasterHead](https://media.tenor.com/nqMC-PZUsUwAAAAC/studio-ghibli.gif)](https://zoro.to)
+[![MasterHead](https://assets.sutori.com/user-uploads/image/e76fb841-e6ba-42cc-859c-3085db1e25d6/dcf857dd0800d6438e2e150578d466ba.gif)](https://zoro.to)
+
 <h1 align="center">Hi 👋, I'm Ahmad Muhaimin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mincridible&label=Profile%20views&color=0e75b6&style=flat" alt="mincridible" /> </p>
 <p align="center">
