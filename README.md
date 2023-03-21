@@ -10,7 +10,9 @@
 
 ## **About me**
 
-- :bowtie: 3rd year Data Engineering student in University Technology Malaysia (UTM) | Learned Python, MySQL, HTML, PHP, CSS, Java, C++, Alteryx, PowerBI & Tableau.
+- 👨‍🎓 3rd year Data Engineering student in University Technology Malaysia (UTM) | Learned Python, MySQL, HTML, PHP, CSS, Java, C++, Alteryx, PowerBI & Tableau.
+
+- 🥉 Licenses & Certifications Alteryx Designer Core, Alteryx Foundational Micro-Credential, Azure AI Fundamentals, AWS Academy Cloud Foundations, AWS Academy Data Analytics and AWS Academy Machine Learning Foundations
 
 - 🌱 I’m currently learning **C#, ASP.NET, React**
 
