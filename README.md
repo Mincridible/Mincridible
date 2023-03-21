@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="http://s1882.pcdn.co/wp-content/uploads/VoaBStransp.gif" width="350"/>
+  <img src="https://i.pinimg.com/originals/2d/a9/bd/2da9bdcb0074d4d14066640894234aa7.gif" width="150"/>
 </div>
 
 
@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineering+Student;Failure+is+success+in+progress"></a>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif">
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif">
 
 ## **About me**
 
