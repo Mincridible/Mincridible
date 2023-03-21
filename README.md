@@ -1,6 +1,6 @@
 [![MasterHead](https://assets.sutori.com/user-uploads/image/e76fb841-e6ba-42cc-859c-3085db1e25d6/dcf857dd0800d6438e2e150578d466ba.gif)](https://zoro.to)
 
-<h1 align="center">Hi 👋, I'm Ahmad Muhaimin</h1>
+<h2 align="center">Hi 👋, I'm Ahmad Muhaimin</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mincridible&label=Profile%20views&color=0e75b6&style=flat" alt="mincridible" /> </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineering+Student;Failure+is+success+in+progress"></a>
