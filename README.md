@@ -10,7 +10,7 @@
 
 ## **About me**
 
-- 3rd year Data Engineering student in University Technology Malaysia (UTM) | Learned Python, MySQL, HTML, PHP, CSS, Java, C++, Alteryx, PowerBI & Tableau.
+- :bowtie: 3rd year Data Engineering student in University Technology Malaysia (UTM) | Learned Python, MySQL, HTML, PHP, CSS, Java, C++, Alteryx, PowerBI & Tableau.
 
 - 🌱 I’m currently learning **C#, ASP.NET, React**
 
