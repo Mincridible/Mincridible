@@ -17,7 +17,6 @@
 
 - 🥉 Licenses & Certifications Alteryx Designer Core, Alteryx Foundational Micro-Credential, Azure AI Fundamentals, AWS Academy Cloud Foundations, AWS Academy Data Analytics and AWS Academy Machine Learning Foundations
 
-- 🌱 I’m currently learning **C#, ASP.NET, React**
 
 - 📫 How to reach me **ahmadmuhaimin135@gmail.com**
 
